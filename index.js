@@ -104,5 +104,5 @@ app.get('/loyalty-points', (req, res) => {
 
 
 app.listen(port, () => {
-  console.log(`Example app listening at ${port}`);
+  console.log(`express flipdeal app listening at ${port}`);
 });
